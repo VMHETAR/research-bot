@@ -1,1 +1,1 @@
-This project is based on an autonomous research bot whose work is to autonomously keep researching over the topix the user asks.
+This project is based on an autonomous research bot whose work is to autonomously keep researching over the topic the user asks.
